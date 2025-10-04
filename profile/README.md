@@ -1,8 +1,9 @@
-    ╔═══════════════════════════════════════╗
-    ║   𝕿𝖍𝖊 𝕻𝖑𝖆𝖌𝖚𝖊 𝕬𝖗𝖈𝖍𝖎𝖛𝖊                     ║
-    ║   A Codex of Shadows & Forgotten Ink  ║
-    ╚═══════════════════════════════════════╝
-
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║ 𝕿𝖍𝖊 𝕻𝖑𝖆𝖌𝖚𝖊 𝕬𝖗𝖈𝖍𝖎𝖛𝖊                                                    ║
+║ A Codex of Shadows & Forgotten Ink                                 ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="500" alt="Ancient Scroll Animation"/>
